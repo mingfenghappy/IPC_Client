@@ -4,7 +4,7 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="1474256891563654000"
+    timestamp="1474366442817189000"
     token="8043801618475563416" >
 
     <task
@@ -21,13 +21,18 @@
         duration="0" />
 
     <artifact
-        location="/Users/didi/Downloads/aidl_client/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/didi/Downloads/aidl_client/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
 
-    <build timestamp="1474256891563654000" >
+    <build timestamp="1474365954041850000" >
         <artifact
             location="/Users/didi/Downloads/aidl_client/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="1474366442817189000" >
+        <artifact
+            location="/Users/didi/Downloads/aidl_client/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
