@@ -1,4 +1,11 @@
-# AIDL
+# Android IPC Client DEMO
+##项目结构
+该项目是IPC方式通信的Client端demo，项目分为2部分，包含ipc_messenger_client,aidl client.
+###ipc_messenger_client
+通过aidl方式实现IPC通信client demo
+###aidl client(即app)
+通过aidl方式实现IPC通信 client demo
+
 Android Aidl是实现IPC通信的一种重要方式，花时间深入研究一下
 
 IPC的根本目的还是为了实现函数的调用，即使是传递数据也是要通过函数调用的方式，为什么呢？因为程序运行总是要知道状态，要有逻辑上的行为，因此必须通讯函数才能体现出行为。
