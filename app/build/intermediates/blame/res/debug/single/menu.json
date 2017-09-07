@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/didi/workspace/IPC_Client/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/didi/workspace/IPC_Client/app/src/main/res/menu/main.xml"
+    },
+    {
         "merged": "/Users/didi/Downloads/aidl_client/app/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/didi/Downloads/aidl_client/app/src/main/res/menu/main.xml"
     }

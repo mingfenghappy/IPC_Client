@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/didi/Downloads/aidl_client/app/src/main/aidl/com/example/aidl/IService.aidl
+ * Original file: /Users/didi/workspace/IPC_Client/app/src/main/aidl/com/example/aidl/IService.aidl
  */
 package com.example.aidl;
 public interface IService extends android.os.IInterface
