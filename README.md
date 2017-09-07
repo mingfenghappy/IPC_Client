@@ -14,6 +14,5 @@ IPC的机制除了进程，或者说不同的应用程序之间进行通讯，�
 还有，就是这些IPC方法总是产生客户/服务端模式的调用，也即是客户端组件（Activity/Service）持有服务端Service的组件，只能是客户端主动调用服务端的方法，服务端无法反过来调用客户端的方法，因为IPC的另一端Service无法获取客户端的对象。
 
 test revert
-TEST REVERT
 
 [Android 3种IPC方式示例](http://blog.csdn.net/hitlion2008/article/details/9773251/)
