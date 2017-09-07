@@ -15,4 +15,6 @@ IPC的机制除了进程，或者说不同的应用程序之间进行通讯，�
 
 test revert
 
+
+test revert revert
 [Android 3种IPC方式示例](http://blog.csdn.net/hitlion2008/article/details/9773251/)
